@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm vicho</h1>
+<h1 align="center">Hi 👋</h1>
 
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div> <img align="center" alt="Coding" width="300" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAd/cat.gif">
-<h1> me</h1> </div>
+<img align="center" alt="Coding" width="300" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAd/cat.gif">
+
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
- </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<p align="left"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="100" height="30"/>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="cshard" width="40" height="30"/>
+  
+  </a> <a href="https://unity.com/es" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="100" height="30"/>
+  </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visualstudiocode" width="150" height="30"/> 
+
 
