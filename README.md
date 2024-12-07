@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Concept art yo
-<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAd/cat.gif">
-
+<div> <img align="center" alt="Coding" width="300" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAd/cat.gif">
+<h1> me</h1> </div>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
