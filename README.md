@@ -11,7 +11,7 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="100" height="30"/>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="cshard" width="40" height="30"/>
+ <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="cshard" width="40" height="30"/>
   
   </a> <a href="https://unity.com/es" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="100" height="30"/>
   </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visualstudiocode" width="150" height="30"/> 
