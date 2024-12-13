@@ -16,11 +16,17 @@
   </a> <a href="https://unity.com/es" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="100" height="30"/>
   </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visualstudiocode" width="150" height="30"/>
 
-<h3 align="left">Projects:</h3>
+<h3>Projects:</h3>
+
+<details>
+ <summary style="font-size": 200px> Click here ➡️ </summary>
+ 
+<br>
 
 ![icon](https://github.com/vichosepr/Yugen/blob/8dafbd58a5a2fcc09cb60c43029f95681c45e61e/icon_yugen.png)
 
-<h2> Yugen  <a href="https://github.com/vichosepr/Yugen">Click here!</a></h2>
+<h2> Yugen  <a href="https://github.com/vichosepr/Yugen">Click here ➡️ </a></h2>
+</details>
 
 
 
