@@ -25,7 +25,7 @@
 
 ![icon](https://github.com/vichosepr/Yugen/blob/8dafbd58a5a2fcc09cb60c43029f95681c45e61e/icon_yugen.png)
 
-<h2> Yugen  <a href="https://github.com/vichosepr/Yugen">Click here ➡️ </a></h2>
+<a href="https://github.com/vichosepr/Yugen">Click here ➡️ </a>
 </details>
 
 
