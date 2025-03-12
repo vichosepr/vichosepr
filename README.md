@@ -19,10 +19,13 @@
 <h3>Projects:</h3>
 
 <details>
-<summary>Click here ➡️</summary>
+  <summary>Click here ➡️</summary>
 
-![icon](https://github.com/vichosepr/Yugen/blob/8dafbd58a5a2fcc09cb60c43029f95681c45e61e/icon_yugen.png)
+  <p>  
+    <img src="https://github.com/vichosepr/Yugen/blob/8dafbd58a5a2fcc09cb60c43029f95681c45e61e/icon_yugen.png" alt="icon" width="100">
+  </p>
 
-[Click here ➡️](https://github.com/vichosepr/Yugen)
+  <p>  
+    <a href="https://github.com/vichosepr/Yugen">Click here ➡️</a>
+  </p>
 </details>
-
