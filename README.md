@@ -20,8 +20,6 @@
 
 <details>
  <summary style="font-size": 200px> Click here ➡️ </summary>
- 
-<br>
 
 ![icon](https://github.com/vichosepr/Yugen/blob/8dafbd58a5a2fcc09cb60c43029f95681c45e61e/icon_yugen.png)
 
