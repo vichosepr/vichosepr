@@ -22,7 +22,7 @@
   <summary>Click here ➡️</summary>
 
   <p>  
-    <img src="https://github.com/vichosepr/Yugen/blob/8dafbd58a5a2fcc09cb60c43029f95681c45e61e/icon_yugen.png" alt="icon" width="100">
+    <img src="https://github.com/vichosepr/Yugen/blob/8dafbd58a5a2fcc09cb60c43029f95681c45e61e/icon_yugen.png" alt="icon" width="300">
   </p>
 
   <p>  
